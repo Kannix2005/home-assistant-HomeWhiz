@@ -10,6 +10,7 @@ ISSUE_URL = "https://github.com/rowysock/home-assistant-homewhiz/issues"
 ICON = "mdi:washing-machine"
 
 COORDINATORS = "coordinators"
+MAC = "mac_adress"
 
 # Defaults
 DEFAULT_NAME = DOMAIN
